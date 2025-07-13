@@ -1,14 +1,22 @@
 {
   "name": "mocking",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "author": "",
-  "license": "ISC",
   "scripts": {
     "test": "jest --coverage",
     "lint": "eslint ."
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antena75/Mocking.git"
+  },
+  "author": "Antena75",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antena75/Mocking/issues"
+  },
+  "homepage": "https://github.com/Antena75/Mocking#readme",
+  "description": "",
   "devDependencies": {
     "@babel/cli": "^7.28.0",
     "@babel/core": "^7.28.0",
